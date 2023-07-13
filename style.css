@@ -1,0 +1,22 @@
+* {
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bolder-text {
+  font-weight: bolder;
+  font-size: 48px;
+}
+
+.recipe-img {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center-text {
+  text-align: center;
+  
+}
